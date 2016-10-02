@@ -1,0 +1,194 @@
+#logo{
+width: 32.5px;
+height: 25px;
+padding-bottom: 1px;
+cursor:pointer;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #555;
+  background-color: #11171C;
+}
+
+header{
+background-image: url("../img/header.jpg");
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+.subheading{
+font-size: 12px;
+color: white;
+text-align: center;
+}
+
+.carousel-caption{
+font-family: "Helvetica Neue";
+color: #FFCE1F;
+}
+
+.carousel-caption:hover{
+color: white;
+}
+
+
+#titlepad{
+padding-bottom: 200px;
+text-align:center;
+font-size: 50px;
+color: #FFCE1F;
+}
+
+
+.navbar-collapse{
+padding-right: 50px;
+}
+
+.container-fluid{
+padding-right: 0;
+padding-left: 0;
+}
+
+blockquote{
+  border-left: 1px solid #eee;
+}
+
+.nav>li>a:hover{
+    background-color: transparent;
+}
+
+
+.point{
+  cursor:pointer;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #333;
+}
+
+
+.blog-header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.blog-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 60px;
+  font-weight: normal;
+  color: #FFCE1F;
+}
+.blog-description {
+  font-size: 20px;
+  color: #999;
+}
+
+
+.blog-main {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+
+.sidebar-module {
+  padding: 15px;
+}
+
+.sidebar-text {
+  color: #FFCE1F;
+}
+
+.circleimg{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    border:3px;
+}
+
+#social{
+text-align: center;
+}
+
+#name{
+text-align: center;
+}
+
+
+.sidebar-module-inset {
+  padding: 15px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
+
+.blog-post {
+  margin-bottom: 60px;
+}
+.blog-post-title {
+  margin-bottom: 5px;
+  font-size: 40px;
+}
+
+.blog-post-meta {
+  display: block;
+  font-size: 1.5rem;
+  line-height: 2.2rem;
+  color: #9EABB3;
+}
+
+.author-thumb {
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-right: 9px;
+    border-radius: 100%;
+}
+
+
+#radical{
+  font-size: 30px;
+    color: #FFCE1F;
+}
+
+.blog-footer {
+  padding: 40px 0;
+  color: #FFCE1F;
+}
+
+
+#tinter {
+  background: blue;
+}
+
+#tinter img {
+  opacity: 0.6;
+}
+
+#tinter img:hover {
+  opacity: 1;
+  cursor:pointer;
+}
+
+.nopadding{
+padding: 0px;
+}
+
+
+.footer{
+  height: 60px;
+  width: 100%;
+  background-color: #083451;
+}
